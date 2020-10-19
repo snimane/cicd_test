@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="tst" language="en" table="x_44778_cicd_test_tst">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>tst</label>
+            <language>en</language>
+            <name>x_44778_cicd_test_tst</name>
+            <plural>tsts</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>abel.tuter</sys_created_by>
+            <sys_created_on>2020-10-19 04:56:27</sys_created_on>
+            <sys_id>b5e55400dbc020109a312bfa4b9619a4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>tst</sys_name>
+            <sys_package display_value="cicd_test" source="x_44778_cicd_test">4095108cdb8020109a312bfa4b9619d3</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="cicd_test">4095108cdb8020109a312bfa4b9619d3</sys_scope>
+            <sys_update_name>sys_documentation_x_44778_cicd_test_tst__en</sys_update_name>
+            <sys_updated_by>abel.tuter</sys_updated_by>
+            <sys_updated_on>2020-10-19 04:56:27</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

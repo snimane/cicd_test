@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="tst">61e55400dbc020109a312bfa4b961974</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>tsts</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_44778_cicd_test_tst</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_44778_cicd_test.tst_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>abel.tuter</sys_created_by>
+        <sys_created_on>2020-10-19 04:56:26</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2de55400dbc020109a312bfa4b961976</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>tsts</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="cicd_test" source="x_44778_cicd_test">4095108cdb8020109a312bfa4b9619d3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="cicd_test">4095108cdb8020109a312bfa4b9619d3</sys_scope>
+        <sys_update_name>sys_app_module_2de55400dbc020109a312bfa4b961976</sys_update_name>
+        <sys_updated_by>abel.tuter</sys_updated_by>
+        <sys_updated_on>2020-10-19 04:56:26</sys_updated_on>
+        <timeline_page/>
+        <title>tsts</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

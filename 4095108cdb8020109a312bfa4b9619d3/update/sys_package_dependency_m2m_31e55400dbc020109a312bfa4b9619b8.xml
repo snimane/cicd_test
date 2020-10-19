@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Task table schema" source="com.glide.task">3917cd867102101091f9db5cf8a3723f</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>abel.tuter</sys_created_by>
+        <sys_created_on>2020-10-19 04:56:27</sys_created_on>
+        <sys_id>31e55400dbc020109a312bfa4b9619b8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="cicd_test" source="x_44778_cicd_test">4095108cdb8020109a312bfa4b9619d3</sys_package>
+        <sys_updated_by>abel.tuter</sys_updated_by>
+        <sys_updated_on>2020-10-19 04:56:27</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>
